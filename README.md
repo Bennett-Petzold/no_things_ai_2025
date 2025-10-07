@@ -6,7 +6,7 @@ A copy of `https://2025.allthingsopen.org/schedule` with all the "AI" talks purg
 Set to update every hour 12PM-9PM UTC from October 10th through 15th.
 
 ### Where?
-https://bennett-petzold.github.io/no_things_ai
+https://bennett-petzold.github.io/no_things_ai_2025/
 
 ### Missed Talk?
 If this list missed an AI talk,
