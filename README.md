@@ -1,6 +1,10 @@
 # no_things_ai_2025
 All Things Open 2025 Schedule Minus AI Talks.
 
+"AI Talks" is roughly defined as the LLM and LLM-adjacent genre.
+Most everyone going to tech talks probably knows that category at this point.
+Classic ML stuff like image processing or vector databases, as long as they don't have the AI hype brainworm, are fine.
+
 ### What?
 A copy of `https://2025.allthingsopen.org/schedule` with all the "AI" talks purged.
 Set to update every hour 12PM-9PM UTC from October 10th through 15th.
