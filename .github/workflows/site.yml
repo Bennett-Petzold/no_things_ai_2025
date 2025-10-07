@@ -20,11 +20,11 @@ jobs:
           workspaces: "strip_ai"
 
       - name: Build page
-        run: cd strip_ai && mkdir site && cargo run --release > site/index.html
+        run: cd strip_ai && mkdir _site && cargo run --release > _site/index.html
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: strip_ai/site/index.html
+          path: strip_ai/_site/
 
   deploy:
     environment:
