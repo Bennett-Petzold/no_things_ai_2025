@@ -28,6 +28,7 @@ const BANNED_PHRASES: &[&str] = &[
     "Talk Less, Merge More: Building a GitLab Sidecar that Reasons and Responds",
     "Language Models",
     "Knowledge Graph",
+    "Co-pilot",
 ];
 
 fn main() {
